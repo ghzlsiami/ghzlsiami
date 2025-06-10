@@ -1,47 +1,46 @@
-<h1 align="center">سلام! 👋 من غزل هستم</h1>
+<h1 align="center">Hi there! 👋 I'm Ghazal</h1>
 
 <p align="center">
-توسعه‌دهنده پایتون | علاقه مند یادگیری و ساختن چیزهای باحال با کد 🐍✨
+Python Developer | Passionate about learning and building cool stuff with code 🐍✨
 </p>
 
 ---
 
-### 🧑‍💻 درباره من:
+### 🧑‍💻 About Me:
 
-- 👩‍💻 برنامه‌نویس پایتون با علاقه‌مندی به **اتومات‌سازی، توسعه وب و دیتا ساینس**
-- 🚀 همیشه دنبال یادگیری چیزهای جدیدم و از چالش‌های کدنویسی لذت می‌برم
-- 💡 معتقدم کد خوب یعنی کدی که ساده، خوانا و قابل توسعه باشه
+- 👩‍💻 Python programmer interested in **automation, web development, and data science**
+- 🚀 Always eager to learn new things and enjoy tackling coding challenges
+- 💡 I believe good code is simple, readable, and scalable
 
 ---
 
-### 🛠️ مهارت‌ها:
+### 🛠 Skills:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<!-- اگر به فریم‌ورک‌هایی مثل Django یا Flask مسلطی اینجا اضافه می‌کنیم -->
+<!-- Add Django or Flask here if you're proficient with them -->
 
 ---
 
-### 📂 پروژه‌های من:
+### 📂 My Projects:
 
-می‌تونی برخی از پروژه‌های من رو در ریپازیتوری‌هام ببینی. چند نمونه از کارهایی که انجام دادم:
+You can find some of my work in my repositories. A few examples of what I’ve done:
 
-- 📊 اسکریپت‌های تحلیلی و مصورسازی داده با Python
-- 🌐 اپلیکیشن‌های ساده وب با Flask یا Django
-- ⚙️ ابزارهای اتومات‌سازی برای کارهای روزمره
+- 📊 Data analysis and visualization scripts with Python
+- 🌐 Simple web apps using Flask or Django
+- ⚙️ Automation tools for everyday tasks
 
 ---
 
-### 📫 ارتباط با من:
+### 📫 Get in Touch:
 
-- 📧 ایمیل: Ghazal.siami1379@gmail.com
-- 💼 [لینکدین](https://www.linkedin.com/in/your-profile) *(اختیاری)*
-- 🌐 [وب‌سایت یا بلاگ](https://yourwebsite.com) *(اختیاری)*
+- 📧 Email: Ghazal.siami1379@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) *(optional)*
+- 🌐 [Website or Blog](https://yourwebsite.com) *(optional)*
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
