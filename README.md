@@ -38,7 +38,7 @@ You can find some of my work in my repositories. A few examples of what I’ve d
 ### 📫 Get in Touch:
 
 - 📧 Email: Ghazal.siami1379@gmail.com
-- 💼 [LinkedIn]([https://www.linkedin.com/in/ghazal-siami](https://www.linkedin.com/in/ghazal-siami-407a1836a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) *(optional)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/ghazal-siami-407a1836a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) *(optional)*
 
 ---
 
