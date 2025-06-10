@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Ghazal</h1>
+<h1 align="center">Hi there! 👋 I'm Qazal</h1>
 
 <p align="center">
 Python Developer | Passionate about learning and building cool stuff with code 🐍✨
